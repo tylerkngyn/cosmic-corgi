@@ -1,0 +1,180 @@
+.aPetFrom {
+    position: absolute;
+    top: 341px;
+    left: 247px;
+    font-size: 50px;
+    display: inline-block;
+    width: 786px;
+    height: 264px;
+}
+.cosmicCorgi {
+    position: absolute;
+    top: 227px;
+    left: 247px;
+    font-size: 96px;
+    display: inline-block;
+    width: 786px;
+    height: 264px;
+    text-shadow: 1px 0 0 #000, 0 1px 0 #000, -1px 0 0 #000, 0 -1px 0 #000;
+}
+.homepageChild {
+    position: absolute;
+    top: 362px;
+    left: 788px;
+    border-radius: 50%;
+    background-color: #d9d9d9;
+    width: 613px;
+    height: 547px;
+}
+.button {
+    position: relative;
+}
+.login {
+    position: absolute;
+    top: 448px;
+    left: 361px;
+    border-radius: 40px;
+    background-color: #7e6783;
+    width: 250px;
+    height: 86px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 40px;
+    box-sizing: border-box;
+    text-align: left;
+}
+.login1 {
+    position: absolute;
+    top: 448px;
+    left: 665px;
+    border-radius: 40px;
+    background-color: #7e6783;
+    width: 250px;
+    height: 86px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 40px;
+    box-sizing: border-box;
+    text-align: left;
+}
+.homepageItem {
+    position: absolute;
+    top: 491px;
+    left: 915px;
+    border-radius: 50%;
+    background-color: #c9c19f;
+    width: 427px;
+    height: 401px;
+}
+.homepageInner {
+    position: absolute;
+    top: 362px;
+    left: 994px;
+    width: 242.9px;
+    height: 243.1px;
+    object-fit: contain;
+}
+.polygonIcon {
+    position: absolute;
+    top: 564px;
+    left: 788px;
+    width: 244.9px;
+    height: 244.7px;
+    object-fit: contain;
+}
+.ellipseDiv {
+    position: absolute;
+    top: 625px;
+    left: 1063px;
+    border-radius: 50%;
+    background-color: #fcf7f7;
+    width: 279px;
+    height: 267px;
+}
+.ellipseIcon {
+    position: absolute;
+    top: 603.5px;
+    left: 1038.5px;
+    width: 157px;
+    height: 139px;
+}
+.homepageChild1 {
+    position: absolute;
+    top: 694.77px;
+    left: 1102.97px;
+    border-radius: 50%;
+    background-color: #4a3a4f;
+    width: 45px;
+    height: 25px;
+    transform:  rotate(-36.4deg);
+    transform-origin: 0 0;
+}
+.homepageChild2 {
+    position: absolute;
+    top: 712.61px;
+    left: 990.25px;
+    border-radius: 50%;
+    background-color: #4a3a4f;
+    width: 34.8px;
+    height: 26.6px;
+    transform:  rotate(-36.4deg);
+    transform-origin: 0 0;
+}
+.homepageChild3 {
+    position: absolute;
+    top: 582.61px;
+    left: 1152px;
+    border-radius: 50%;
+    background-color: #4a3a4f;
+    width: 34.8px;
+    height: 26.6px;
+    transform:  rotate(-36.4deg);
+    transform-origin: 0 0;
+}
+.homepageChild4 {
+    position: absolute;
+    top: 20px;
+    left: -145px;
+    border-radius: 50%;
+    background-color: #66c7f4;
+    border: 1px solid #000;
+    box-sizing: border-box;
+    width: 464px;
+    height: 409px;
+}
+.homepageChild5 {
+    position: absolute;
+    top: 130px;
+    left: -102px;
+    border-radius: 50%;
+    background-color: #3c787e;
+    width: 245px;
+    height: 94px;
+}
+.homepageChild6 {
+    position: absolute;
+    top: 163px;
+    left: -31.98px;
+    border-radius: 50%;
+    background-color: #3c787e;
+    width: 245px;
+    height: 94px;
+    transform:  rotate(27.2deg);
+    transform-origin: 0 0;
+}
+.homepage {
+    width: 100%;
+    position: relative;
+    background-color: #2a1f2d;
+    height: 832px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 36px;
+    color: #f5f5f5;
+    font-family: Inter;
+}
+

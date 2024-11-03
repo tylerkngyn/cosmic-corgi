@@ -1,0 +1,79 @@
+.macbook-air {
+    background-color: #2a1f2d;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .macbook-air .div {
+    background-color: #2a1f2d;
+    height: 832px;
+    position: relative;
+    width: 1280px;
+  }
+  
+  .macbook-air .connected-title {
+    color: #f5f5f5;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 64px;
+    font-weight: 400;
+    left: 456px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 45px;
+    width: 368px;
+  }
+
+  
+  .macbook-air .read-message-button {
+    all: unset;
+    box-sizing: border-box;
+    color: #f5f5f5;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 36px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .macbook-air .corgi-duo {
+    height: 462px;
+    left: 224px;
+    position: absolute;
+    top: 188px;
+    width: 832px;
+  }
+  
+  .macbook-air .layerCorgi {
+    height: 500px;
+    left: 0;
+    position: absolute;
+    top: 0px;
+    width: 276px;
+  }
+  
+  
+  .macbook-air .imgCorgi {
+    height: 500px;
+    left: 556px;
+    position: absolute;
+    top: 0px;
+    width: 276px;
+  }
+
+
+  
+  
+  .macbook-air .line {
+    height: 15px;
+    left: 257px;
+    position: absolute;
+    top: 221px;
+    width: 304px;
+  }
+  
